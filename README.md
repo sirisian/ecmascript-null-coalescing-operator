@@ -11,3 +11,9 @@ A nice Javascript explanation of the current problems with using || that can cau
 stackoverflow.com/a/476445
 
 Also an assignment operator ??= would be added.
+
+## Spec
+
+Section 11.7 needs to add ?? and ??=
+
+There also needs to be a section explaining the behavior.
